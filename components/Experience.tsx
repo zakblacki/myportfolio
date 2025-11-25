@@ -1,6 +1,6 @@
 import React from 'react';
 import Section from './Section';
-import { Briefcase, Calendar } from 'lucide-react';
+import { Briefcase } from 'lucide-react';
 import { EXPERIENCES, EDUCATIONS } from '../constants';
 
 const Experience: React.FC = () => {
